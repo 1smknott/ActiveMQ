@@ -27,7 +27,7 @@ import org.apache.activemq.ActiveMQConnectionFactory;
 import org.apache.log4j.PropertyConfigurator;
 
  
-
+// This is the receiver
 public class MessageReceiver {
 
  

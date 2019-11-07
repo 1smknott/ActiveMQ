@@ -29,6 +29,7 @@ import org.apache.log4j.PropertyConfigurator;
  
 
 //Must manually start the active MQ server
+// this is the sender
 public class MessageSender {
 
      
